@@ -15,7 +15,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-8B5CF6?style=for-the-badge&logo=fastapi&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5B21B6?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-7C3AED?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-6D28D9?style=for-the-badge&logo=docker&logoColor=white)
+
 
 </div>
 
@@ -54,7 +54,7 @@
 | 💻 **Lenguajes** | ![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-6D28D9?style=flat-square&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-8B5CF6?style=flat-square&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-5B21B6?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=mysql&logoColor=white) |
 | ⚙️ **Backend** | ![Flask](https://img.shields.io/badge/Flask-6D28D9?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-8B5CF6?style=flat-square&logo=fastapi&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-5B21B6?style=flat-square&logo=dotnet&logoColor=white) |
 | 🗄️ **Bases de datos** | ![MySQL](https://img.shields.io/badge/MySQL-7C3AED?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-6D28D9?style=flat-square&logo=sqlite&logoColor=white) |
-| 🚀 **DevOps** | ![Git](https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-5B21B6?style=flat-square&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-7C3AED?style=flat-square&logo=docker&logoColor=white) ![Render](https://img.shields.io/badge/Render-6D28D9?style=flat-square&logo=render&logoColor=white) |
+| 🚀 **DevOps** | ![Git](https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-5B21B6?style=flat-square&logo=githubactions&logoColor=white)
 | 🔐 **Seguridad** | ![JWT](https://img.shields.io/badge/JWT-8B5CF6?style=flat-square&logo=jsonwebtokens&logoColor=white) ![BCrypt](https://img.shields.io/badge/BCrypt-7C3AED?style=flat-square) ![RBAC](https://img.shields.io/badge/RBAC-5B21B6?style=flat-square) |
 | 🤖 **IA** | ![Groq](https://img.shields.io/badge/Groq-6D28D9?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-8B5CF6?style=flat-square&logo=googlegemini&logoColor=white) |
 | 🎨 **Otros** | ![Pygame](https://img.shields.io/badge/Pygame-7C3AED?style=flat-square) ![Thunkable](https://img.shields.io/badge/Thunkable-6D28D9?style=flat-square) ![Swagger](https://img.shields.io/badge/Swagger-5B21B6?style=flat-square&logo=swagger&logoColor=white) |
