@@ -28,10 +28,10 @@
 <td width="60%">
 
 - 🎓 **Técnica en Programación** titulada
-- 📘 Cursando **Ingeniería en Sistemas** en TU_UNIVERSIDAD
+- 📘 Cursando **Ingeniería en Sistemas** en Universidad EPCA
 - 🔧 Me gusta construir sistemas completos: base de datos, API, interfaz y seguridad
 - 🤖 Exploro **agentes de IA** conectados a bases de datos, con validaciones y confirmaciones
-- 🌱 Aprendiendo: TU_TEMA_ACTUAL
+- 🌱 Aprendiendo: BACKEND - APIS 
 - 💬 Pregúntame sobre **Python, Flask, FastAPI, ASP.NET Core y SQL**
 
 </td>
@@ -86,8 +86,8 @@
 
 | | |
 |:---|:---|
-| 📘 **Ingeniería en Sistemas** | TU_UNIVERSIDAD · *en curso* |
-| 🎓 **Técnica en Programación** | TU_INSTITUCIÓN · *titulada* |
+| 📘 **Ingeniería en Sistemas** | Universidad EPCA · *en curso* |
+| 🎓 **Técnica en Programación** | CEcYTEG GUANAJUATO · *titulada* |
 
 ---
 
