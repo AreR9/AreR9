@@ -106,7 +106,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areli-reynoso-37711a452/)
 [![Correo](https://img.shields.io/badge/Correo-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arelireynoso90@gmail.com)
 
 <br>
